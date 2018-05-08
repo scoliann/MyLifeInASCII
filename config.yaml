@@ -1,0 +1,18 @@
+img_exts: ['.png', '.jpg']
+vid_exts: ['.mp4', '.mov', '.wmv', '.mpg', '.avi']
+
+ascii_sprite_file: 'ascii_sprites.jpg'
+num_ascii_chars: 94
+ascii_char_list: ['all']
+
+sprite_dilations: 0
+sprite_resize: 0.5
+sprite_color: False
+sprite_color_thresh: 0.02
+
+img_resize: 1.0
+
+nth_frames: 3
+fps: 10
+
+input_file: 'street.mp4'
