@@ -1,7 +1,8 @@
 This script creates ASCII art from image or video inputs.
 
 
-##  
+##  Seeing Is Believing!
+![alt text](https://github.com/scoliann/MyLifeInASCII/blob/master/readme_resources/eiffel_tower_before_after.jpg)
 
 
 ## Inspiration
@@ -63,3 +64,4 @@ I would feel remiss if I didn't list a few tips to aid in the synthesis process:
 ## Results
 
 For some example results, check the `example_results` folder.
+
