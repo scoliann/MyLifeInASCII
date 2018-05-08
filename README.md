@@ -1,5 +1,9 @@
 This script creates ASCII art from image or video inputs.
 
+
+##  
+
+
 ## Inspiration
 
 After taking Professor Irfan Essa's Computational Photography class at Georgia Tech, I realized that I had all the necessary know-how to implement a pipeline that generates ASCII art from an input image.  I expanded on this idea, and created a flexible pipeline that enables user control of the synthesis process, and works on both video and image inputs.

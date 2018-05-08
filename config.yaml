@@ -7,12 +7,12 @@ ascii_char_list: ['all']
 
 sprite_dilations: 0
 sprite_resize: 0.5
-sprite_color: False
+sprite_color: True
 sprite_color_thresh: 0.02
 
-img_resize: 1.0
+img_resize: 3.0
 
 nth_frames: 3
 fps: 10
 
-input_file: 'street.mp4'
+input_file: 'eiffel-tower.jpg'
